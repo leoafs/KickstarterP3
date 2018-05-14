@@ -33,5 +33,4 @@ public class Main {
 		} while (control != 0);
 		input.close();
 	}
-
 }
