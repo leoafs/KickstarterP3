@@ -1,6 +1,6 @@
 package enums;
 
-public class CountryOP {
+public class Status {
 	public String PRIVATE() {
 		return "PRIVATE";
 	}
@@ -16,5 +16,4 @@ public class CountryOP {
 	public String ENDED() {
 		return "ENDED";
 	}
-
 }
